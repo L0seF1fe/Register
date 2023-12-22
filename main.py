@@ -20,8 +20,8 @@ class Pattern_Register:
         except Exception:
             print("Аккаунт не Зарегистрироване по неизвестной ошибке")
             time.sleep(5)
-            print("Аккаунт успешно создан")
-            time.sleep(5)
+        print("Аккаунт успешно создан")
+        time.sleep(5)
 
 Register = Pattern_Register(Login, Password, File_location)
 Register.entering_data(Login, Password, File_location)
