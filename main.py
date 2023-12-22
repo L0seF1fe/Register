@@ -1,4 +1,15 @@
 import time
+print(" ")
+print(" ")
+print(" ")
+print("          /$$$$$$            /$$                       /$$     /$$           /$$")
+print("         /$$__  $$          | $$                      | $$    |__/          | $$")
+print("        | $$  \__/  /$$$$$$ | $$  /$$$$$$   /$$$$$$$ /$$$$$$   /$$  /$$$$$$ | $$")
+print("        | $$       /$$__  $$| $$ /$$__  $$ /$$_____/|_  $$_/  | $$ |____  $$| $$")
+print("        | $$      | $$$$$$$$| $$| $$$$$$$$|  $$$$$$   | $$    | $$  /$$$$$$$| $$")
+print("        | $$    $$| $$_____/| $$| $$_____/ \____  $$  | $$ /$$| $$ /$$__  $$| $$")
+print("        |  $$$$$$/|  $$$$$$$| $$|  $$$$$$$ /$$$$$$$/  |  $$$$/| $$|  $$$$$$$| $$")
+print("         \______/  \_______/|__/ \_______/|_______/    \___/  |__/ \_______/|__/)")
 Login = str(input("Enter your Nickname: "))
 Password = int(input("Enter your Password: "))
 File_location = r"C:\Users\User\Desktop\Register\Register-and-Login\NamePassword.txt"
